@@ -31,3 +31,9 @@ O que nos diferencia na TechMart é o nosso compromisso com a satisfação do cl
 - **Profissionais criativos:** Designers gráficos, editores de vídeo, fotógrafos e outros profissionais criativos que procuram equipamentos, softwares e acessórios para seu trabalho.
 
 - **Profissionais que trabalham em casa:** Trabalhadores remotos que buscam equipamentos de escritório, como monitores, teclados ergonômicos, headsets, etc., para melhorar sua produtividade em casa.
+
+
+## Equipe:
+- Robson do Amaral Diógenes: robsonad07@gmail.com
+- Felipe Oliveira Nogueira: felipe.olv@alu.ufc.br
+- Francisca Franklane Lima Costa: franklanelima@icloud.com
